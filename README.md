@@ -1,9 +1,8 @@
-# Messy Macarena
+ # ''Messy Macarena
 
 ## Objectives
 
-1. Use `puts` to print out the steps of the Macarena in the correct order.
-
+1. Use `puts` to print out the steps of the Macarena in the co'right arm out in front pf you, plam facing down.'
 ## Instructions
 
 <img src="https://cl.ly/r3W4/629.gif" align="right" hspace="10" vspace="10">
